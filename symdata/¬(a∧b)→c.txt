@@ -1,0 +1,49 @@
+If it is not the case that both <AAA> and <BBB>, then <CCC>.
+If NOT <AAA> or NOT <BBB>, then <CCC>.
+If we don't have <AAA> and <BBB> together, <CCC>.
+If not both <AAA> and <BBB>, then <CCC>.
+When not both <AAA> and <BBB>, <CCC>.
+When NOT <AAA> or NOT <BBB>, <CCC>.
+NOT <AAA> or NOT <BBB> only if <CCC>.
+Only if <CCC>, it is not the case that both <AAA> and <BBB>.
+Only if <CCC>, NOT <AAA> or NOT <BBB>.
+Given not the case that both <AAA> and <BBB>, <CCC>.
+Given NOT <AAA> or NOT <BBB>, <CCC>.
+If it is not the case that both <AAA> and <BBB>, <CCC>.
+If NOT <AAA> or NOT <BBB>, <CCC>.
+In case not both <AAA> and <BBB>, <CCC>.
+In case either NOT <AAA> or NOT <BBB>, <CCC>.
+As long as not both <AAA> and <BBB>, <CCC>.
+As long as NOT <AAA> or NOT <BBB>, <CCC>.
+Once not the case that both <AAA> and <BBB>, <CCC>.
+Once NOT <AAA> or NOT <BBB>, <CCC>.
+In the event that not both <AAA> and <BBB>, <CCC>.
+In the event that NOT <AAA> or NOT <BBB>, <CCC>.
+Assuming that not both <AAA> and <BBB>, <CCC>.
+Assuming that NOT <AAA> or NOT <BBB>, <CCC>.
+Provided that not both <AAA> and <BBB>, <CCC>.
+Provided that NOT <AAA> or NOT <BBB>, <CCC>.
+Either NOT <AAA> or NOT <BBB>, <CCC>.
+Should NOT <AAA> or NOT <BBB>, <CCC>.
+Whenever it is not the case that both <AAA> and <BBB>, then <CCC>.
+Whenever NOT <AAA> or NOT <BBB>, then <CCC>.
+Whenever it is not the case that both <AAA> and <BBB>, <CCC>.
+Whenever NOT <AAA> or NOT <BBB>, <CCC>.
+<CCC>, unless both <AAA> and <BBB>.
+<CCC>, except when both <AAA> and <BBB>.
+<CCC> if it is not the case that both <AAA> and <BBB>.
+<CCC> if NOT <AAA> or NOT <BBB>.
+<CCC> when it is not the case that both <AAA> and <BBB>.
+<CCC> when NOT <AAA> or NOT <BBB>.
+<CCC> as long as it is not the case that both <AAA> and <BBB>.
+<CCC> as long as NOT <AAA> or NOT <BBB>.
+<CCC> on the condition that NOT <AAA> or NOT <BBB>.
+<CCC> in the case that NOT <AAA> or NOT <BBB>.
+<CCC> is consequent to not the case both <AAA> and <BBB>.
+<CCC> is a consequence of not the case both <AAA> and <BBB>.
+<CCC>, provided that not the case that both <AAA> and <BBB>.
+<CCC>, provided that NOT <AAA> or NOT <BBB>.
+<CCC> given not both <AAA> and <BBB>.
+<CCC> given NOT <AAA> or NOT <BBB>.
+<CCC>, assuming not both <AAA> and <BBB>.
+<CCC>, assuming NOT <AAA> or NOT <BBB>.

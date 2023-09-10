@@ -1,0 +1,37 @@
+If <AAA>, then <BBB>.
+If <AAA>, <BBB>.
+When <AAA>, <BBB>.
+<AAA>, only if <BBB>.
+Only if <BBB>, <AAA>.
+<BBB>, provided that <AAA>.
+<AAA> is a sufficient condition for the case that <BBB>.
+<BBB> is a necessary condition for the case that <AAA>.
+Given <AAA>, <BBB>.
+Provided that <AAA>, <BBB>.
+Assuming that <AAA>, <BBB>.
+As long as <AAA>, <BBB>.
+Once <AAA>, <BBB>.
+Should <AAA>, <BBB>.
+In the event that <AAA>, it follows that <BBB>.
+If <AAA>, it can be concluded that <BBB>.
+<BBB>, given <AAA>.
+<BBB>, assuming <AAA>.
+<BBB>, provided <AAA>.
+<BBB>, once <AAA>.
+<BBB>, as long as <AAA>.
+In the presence of <AAA>, <BBB>.
+Should <AAA>, <BBB>.
+<AAA>, therefore <BBB>.
+<BBB> is consequent to the case that <AAA>.
+<AAA> in order for the case that <BBB>.
+Whenever <AAA>, then <BBB>.
+Whenever <AAA>, <BBB>.
+<AAA>, hence <BBB>.
+<BBB>, if <AAA>.
+<BBB>, when <AAA>.
+<AAA>, so <BBB>.
+<AAA>, thus <BBB>.
+<AAA>, and therefore <BBB>.
+<AAA>, which means <BBB>.
+<AAA> being the case, <BBB>.
+If NOT <BBB>, NOT <AAA>.

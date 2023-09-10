@@ -1,0 +1,32 @@
+If <AAA> or <BBB>, then <CCC>.
+If <AAA> or <BBB>, <CCC>.
+If <AAA> or <BBB> being the case, <CCC>.
+If either <AAA> or <BBB>, it follows that <CCC>.
+Only if <CCC>, <AAA> or <BBB>.
+<CCC>, provided that <AAA> or <BBB>.
+Given <AAA> or <BBB>, <CCC>.
+<CCC> given either <AAA> or <BBB>.
+<CCC>, assuming either <AAA> or <BBB>.
+Should <AAA> or <BBB>, <CCC>.
+Whenever <AAA> or <BBB>, then <CCC>.
+Whenever <AAA> or <BBB>, <CCC>.
+In case either <AAA> or <BBB>, <CCC>.
+As long as <AAA> or <BBB>, <CCC>.
+Once <AAA> or <BBB>, <CCC>.
+Should <AAA> or <BBB>, <CCC>.
+In the event that <AAA> or <BBB>, it follows that <CCC>.
+Given that either <AAA> or <BBB>, it can be concluded that <CCC>.
+When <AAA> or <BBB>, <CCC>.
+Assuming that <AAA> or <BBB>, <CCC>.
+Provided that <AAA> or <BBB>, <CCC>.
+Either <AAA> or <BBB>, <CCC>.
+<CCC> unless neither <AAA> nor <BBB>.
+<CCC>, except when neither <AAA> nor <BBB>.
+<CCC> if <AAA> or <BBB>.
+<CCC> given that either <AAA> or <BBB>.
+<CCC> provided <AAA> or <BBB>.
+<CCC> when <AAA> or <BBB>.
+<CCC> on the condition that <AAA> or <BBB>.
+<CCC> in the case that <AAA> or <BBB>.
+<CCC> as long as <AAA> or <BBB>.
+<CCC> whenever <AAA> or <BBB>.
