@@ -1,5 +1,5 @@
 # ILogicEval construction
-- symdata folder contains predefined templates for transformation to natural language
+symdata folder contains predefined templates for transformation to natural language
 Order of running the files:
 1) make_expression.py
 2) snli_preprocessing.py
@@ -10,7 +10,7 @@ Order of running the files:
 
 
 # As a Pre-training Corpus in Other Logic Reasoning Task
-- Result can be found in EvalAI ReClor Leaderboard
+Result can be found in EvalAI ReClor Leaderboard
 Run the file to create f-ILogicEval (only need to remove instance in train.json): **f-ILogicEval.py**
 1) git clone MERIt GitHub repo and download deberta-v2-xlarge in MERIt/pretrained-models/
 ```git clone https://github.com/SparkJiao/MERIt.git```
